@@ -23,7 +23,7 @@ print("""
 """)
 print("Develop by Hash'J Programming")
 print("#################################################")
-MD5 = input("Enter MD5 Hash: ")
+MD5 = input("Enter Number: ")
 print("#################################################")
 result(MD5)
 print("#################################################")
